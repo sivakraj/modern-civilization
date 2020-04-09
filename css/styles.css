@@ -10,10 +10,6 @@
 
 
 /* ---- Base Rules ---- */
-html {
-    scroll-behavior: smooth;
-}
-
 body {
     background: rgb(218, 111, 173);
     background: linear-gradient(0deg, rgb(168, 96, 170) 0%, rgba(0,13,60,1) 100%);
