@@ -7,7 +7,7 @@ This webpage is created with two purposes, one is to provide knowledge on topics
 
 ### Accessing this site in your favorite browser
 
-click the link: 
+click the link: https://siva-k-raj-modern-civilization.netlify.com/
 
 ### Getting Started
 
