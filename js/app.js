@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     // Build menu
     constructNav();
     // Scroll to section on link click
-    setSmoothScrolling();
+    //setSmoothScrolling();
     // To set appropriate section as active
     createSectionObserver();
 }, false);
